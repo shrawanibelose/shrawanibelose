@@ -15,5 +15,5 @@
 **[Face-Recognition-Attendance-System](https://github.com/shrawanibelose/Face-Recognition-Attendance-System.git)** *Developed an end-to-end solution to automate university roll-calls, reducing manual tracking time by 100%.*
 
 ### 📫 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/shrawani-belose)
+- [LinkedIn](https://www.linkedin.com/in/shrawani-belose/)
 - Email: [shrawanibelose2005@gmail.com]
