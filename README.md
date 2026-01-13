@@ -12,7 +12,7 @@
 - **Professional:** Product Strategy, Data Documentation, Git/GitHub
 
 ### 🚀 Highlighted Project
-**[Face-Recognition-Attendance-System]** *Developed an end-to-end solution to automate university roll-calls, reducing manual tracking time by 100%.*
+**[Face-Recognition-Attendance-System](https://github.com/shrawanibelose/Face-Recognition-Attendance-System.git)** *Developed an end-to-end solution to automate university roll-calls, reducing manual tracking time by 100%.*
 
 ### 📫 Let's Connect!
 - [LinkedIn](www.linkedin.com/in/shrawani-belose)
