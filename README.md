@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Shrawani! 
 
-<!--
-**shrawanibelose/shrawanibelose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🏫 **Final Year BSc CS Student** @ University of Mumbai (Class of 2026).
+- 💡 **Aspiring Product Manager & Data Analyst** with a focus on AI-driven automation.
+- 🛠️ **Current Focus:** Optimizing data workflows and building scalable Python applications.
 
-Here are some ideas to get you started:
+### 💻 Technical Skills
+- **Languages:** Python, SQL
+- **AI & Vision:** OpenCV, Face Recognition
+- **Web & Data:** Flask, SQLite, Pandas
+- **Professional:** Product Strategy, Data Documentation, Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlighted Project
+**[Face-Recognition-Attendance-System](LINK_TO_YOUR_REPO_HERE)** *Developed an end-to-end solution to automate university roll-calls, reducing manual tracking time by 100%.*
+
+### 📫 Let's Connect!
+- [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+- Email: [Your Email Here]
