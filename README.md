@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shrawani! 
 
 ### 🎓 About Me
-- 🏫 **Final Year BSc CS Student** @ University of Mumbai (Class of 2026).
-- 💡 **Aspiring Product Manager & Data Analyst** with a focus on AI-driven automation.
+- 🏫 **MSc CS Student** @ University of Mumbai (Class of 2026).
+- 💡 **Aspiring Data Analyst** with a focus on AI-driven automation.
 - 🛠️ **Current Focus:** Optimizing data workflows and building scalable Python applications.
 
 ### 💻 Technical Skills
